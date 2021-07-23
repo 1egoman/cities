@@ -1,2 +1,2 @@
-# Minneapolis
+# Minneapolis, MN
 
