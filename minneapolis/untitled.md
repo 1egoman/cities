@@ -26,7 +26,7 @@ TBD
 **Overall rating**: 5/5
 {% endhint %}
 
-* ✅Significant amounts of **quality** bike infrastructure
+* ✅ Significant amounts of **quality** bike infrastructure
   * Bike lanes along every major road, or a shoulder that's wide enough to bike on
   * Cars seem to be more used to bikes than other cities where cars rule \(ie, Syracuse\)
   * It's used significantly by people from all backgrounds
